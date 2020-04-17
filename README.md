@@ -1,4 +1,4 @@
-# Twitt Displayer 
+# Tweet Displayer 
 
 Display single tweets on OBS studio
 
