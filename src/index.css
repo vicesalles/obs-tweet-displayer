@@ -1,0 +1,43 @@
+body{
+  margin-top: 0;
+  margin-left: 0;
+  width: 1920px;
+  height: 1080px;
+  position: fixed; 
+  background-color: #00ff00;
+}
+
+.main{
+  margin-top: 0;
+  margin-left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+.twittContainer{
+
+  position: absolute;
+  left: 20px;
+  bottom: 100px;
+
+}
+
+#buscar{
+  z-index: 5;
+  left: 20px; 
+  top: 20px;
+  position: fixed  ;
+}
+
+
+
+input, select {
+  
+  padding: 0.5em 1em 0.5em 1em;
+}
+
+button{  
+  left: 0.5em;
+  padding: 0.5em 1em 0.5em 1em;
+  cursor: pointer;
+}
